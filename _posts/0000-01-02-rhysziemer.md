@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Some text
+Ask not what your country can do for you, but what you can do for your country
 Use the left arrow to go back!
